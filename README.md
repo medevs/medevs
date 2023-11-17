@@ -48,5 +48,9 @@ Software Developer
   </a>
 </p>
 
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=medevs&show_icons=true alt=medevs />
+</p>
+
 
 
