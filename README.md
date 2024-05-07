@@ -43,6 +43,7 @@ I'm proficient in a variety of technologies including:
 
 <br clear="left"/>
 
-## Visitor Badge
+## Badges
 
+[![wakatime](https://wakatime.com/badge/user/6ce7c40b-ea03-4900-9e0f-df9522455eb6.svg)](https://wakatime.com/@6ce7c40b-ea03-4900-9e0f-df9522455eb6)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=medevs.medevs)
