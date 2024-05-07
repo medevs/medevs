@@ -32,6 +32,9 @@ I'm particularly interested in artificial intelligence and enjoy building softwa
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Astro](https://img.shields.io/badge/-Astro-000000?style=flat-square&logo=astro)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=medevs&count_private=true&show_icons=true&include_all_commits=true)
+## General github stats
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=medevs&theme=radical" alt="medevs" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=medevs&show_icons=true&locale=en&layout=compact&theme=radical" alt="medevs" /></p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=medevs.medevs)
