@@ -32,6 +32,8 @@ I'm particularly interested in artificial intelligence and enjoy building softwa
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Astro](https://img.shields.io/badge/-Astro-000000?style=flat-square&logo=astro)
+![OpenAI](https://img.shields.io/badge/-OpenAI-FF7600?style=flat-square&logo=openai&logoColor=white)
+![Langchain](https://img.shields.io/badge/-Langchain-3C3C3B?style=flat-square)
 
 ## GitHub Stats
 
