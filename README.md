@@ -4,15 +4,14 @@ Welcome to my GitHub profile. I'm Ahmed, a passionate Software Developer based i
 
 I'm particularly interested in artificial intelligence and enjoy building software that leverages AI technologies.
 
-## Connect with Me
+## ⚡ Connect with Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-ahmedoublihi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-oublihi/)](https://www.linkedin.com/in/ahmed-oublihi/)
 [![Twitter Badge](https://img.shields.io/badge/-ahmedoublihi-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ahmedoublihi)](https://twitter.com/ahmedoublihi)
 [![GitHub Badge](https://img.shields.io/badge/-medevs-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/medevs)](https://github.com/medevs)
 
-## ⚡ Technologies
+##  🛠️ Technologies & Tools
 
-I'm proficient in a variety of technologies including:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
