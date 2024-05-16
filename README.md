@@ -18,7 +18,6 @@ I'm particularly interested in artificial intelligence and enjoy building softwa
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)
-![Shards UI](https://img.shields.io/badge/-Shards%20UI-258FFF?style=flat-square&logo=bootstrap)
 ![Webix JS](https://img.shields.io/badge/-Webix%20JS-4479A1?style=flat-square&logo=webix&logoColor=white)
 ![Ext JS](https://img.shields.io/badge/-Ext%20JS-87B3E8?style=flat-square&logo=sencha&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
