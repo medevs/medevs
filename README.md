@@ -1,4 +1,4 @@
-# Moin! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+# Moin/Hi/Azul! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 Welcome to my GitHub profile. I'm Ahmed, a passionate Software Developer based in Bremen, Germany, with a strong focus on web technologies. I love delving into JavaScript ecosystems and building scalable and efficient web applications. With a keen eye for detail and a drive for continuous learning, I strive to deliver high-quality solutions that meet both user needs and business objectives.
 
