@@ -41,8 +41,6 @@ I'm particularly interested in artificial intelligence and enjoy building softwa
   
 [![wakatime](https://wakatime.com/badge/user/6ce7c40b-ea03-4900-9e0f-df9522455eb6.svg)](https://wakatime.com/@6ce7c40b-ea03-4900-9e0f-df9522455eb6)
 
-<p><i>Coding time tracked since October 10, 2018</i></p>
-
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=medevs&layout=compact&theme=radical)](https://wakatime.com/@medevs)
 
 </div>
@@ -50,13 +48,8 @@ I'm particularly interested in artificial intelligence and enjoy building softwa
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medevs&theme=radical" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=medevs&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medevs&theme=radical" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=medevs&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </div>
 
 ## 🤝 Connect with Me
