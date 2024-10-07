@@ -1,50 +1,78 @@
-# Moin/Hi/Azul! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" alt="Wave">
+  <h3>Moin | Hi | Azul!</h3>
+  <p><i>Software Developer | AI Enthusiast | Web Technology Specialist</i></p>
+</div>
 
-Welcome to my GitHub profile. I'm Ahmed, a passionate Software Developer based in Bremen, Germany, with a strong focus on web technologies. I love delving into JavaScript ecosystems and building scalable and efficient web applications. With a keen eye for detail and a drive for continuous learning, I strive to deliver high-quality solutions that meet both user needs and business objectives.
+## 👨‍💻 About Me
+
+Welcome to my GitHub profile! I'm Ahmed, a passionate Software Developer based in Bremen, Germany, with a strong focus on web technologies. I love delving into JavaScript ecosystems and building scalable and efficient web applications. With a keen eye for detail and a drive for continuous learning, I strive to deliver high-quality solutions that meet both user needs and business objectives.
 
 I'm particularly interested in artificial intelligence and enjoy building software that leverages AI technologies.
 
-## ⚡ Connect with Me
+## 🛠️ Tech Stack
 
-[![Linkedin Badge](https://img.shields.io/badge/-ahmedoublihi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-oublihi/)](https://www.linkedin.com/in/ahmed-oublihi/)
-[![Twitter Badge](https://img.shields.io/badge/-ahmedoublihi-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ahmedoublihi)](https://twitter.com/ahmedoublihi)
-[![GitHub Badge](https://img.shields.io/badge/-medevs-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/medevs)](https://github.com/medevs)
+<div align="center">
 
-##  🛠️ Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Langchain](https://img.shields.io/badge/-Langchain-3C3C3B?style=for-the-badge)
 
+</div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Astro](https://img.shields.io/badge/-Astro-000000?style=flat-square&logo=astro)
-![Webix JS](https://img.shields.io/badge/-Webix%20JS-4479A1?style=flat-square&logo=webix&logoColor=white)
-![Ext JS](https://img.shields.io/badge/-Ext%20JS-87B3E8?style=flat-square&logo=sencha&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Prisma](https://img.shields.io/badge/-Prisma-1B222D?style=flat-square&logo=prisma)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![SVN](https://img.shields.io/badge/-SVN-black?style=flat-square&logo=subversion)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![OpenAI](https://img.shields.io/badge/-OpenAI-FF7600?style=flat-square&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3C3C3B?style=flat-square)
-![Langchain](https://img.shields.io/badge/-Langchain-3C3C3B?style=flat-square)
+## ⏱️ Coding Time
 
-## GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=medevs&theme=radical" alt="GitHub Streak" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=medevs&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<br clear="left"/>
-
-## Badges
-
+<div align="center">
+  
 [![wakatime](https://wakatime.com/badge/user/6ce7c40b-ea03-4900-9e0f-df9522455eb6.svg)](https://wakatime.com/@6ce7c40b-ea03-4900-9e0f-df9522455eb6)
+
+<p><i>Coding time tracked since October 10, 2018</i></p>
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=medevs&layout=compact&theme=radical)](https://wakatime.com/@medevs)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medevs&theme=radical" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=medevs&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+## 🤝 Connect with Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Oublihi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-oublihi/)
+[![Twitter](https://img.shields.io/badge/Twitter-@ahmedoublihi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmedoublihi)
+[![GitHub](https://img.shields.io/badge/GitHub-medevs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medevs)
+
+</div>
+
+---
+
+<div align="center">
+  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=medevs.medevs)
+
+</div>
