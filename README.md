@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" alt="Wave">
   <h3>Moin | Hi | Azul!</h3>
-  <p><i>Software Developer | AI Enthusiast</i></p>
+  <p><i>Software Developer</i></p>
 </div>
 
 ## 👨‍💻 About Me
