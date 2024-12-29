@@ -1,16 +1,33 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" alt="Wave">
-  <h3>Moin | Hi | Azul!</h3>
-  <p><i>Software Developer</i></p>
+  <h1>Moin | Hi | Azul! 👋</h1>
+  <p><b>Software Developer</b></p>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Oublihi-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-oublihi/)
+  [![Twitter](https://img.shields.io/badge/Twitter-@ahmedoublihi-1DA1F2?style=flat&logo=twitter)](https://twitter.com/ahmedoublihi)
 </div>
 
-## 👨‍💻 About Me
+<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-Welcome to my GitHub profile! I'm Ahmed, a passionate Software Developer based in Bremen, Germany, with a strong focus on web technologies. I love delving into JavaScript ecosystems and building scalable and efficient web applications. With a keen eye for detail and a drive for continuous learning, I strive to deliver high-quality solutions that meet both user needs and business objectives.
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=medevs&theme=radical&hide_border=true" alt="GitHub Streak">
 
-I'm particularly interested in artificial intelligence and enjoy building software that leverages AI technologies.
+</td>
+<td width="50%">
 
-## 🛠️ Tech Stack
+<h3>👨‍💻 About Me</h3>
+
+- 🚀 Software Developer based in Bremen, Germany
+- 💡 Specializing in web tech & AI integration
+- 🌱 Building scalable solutions
+- 🔭 Currently working on AI-powered web apps
+
+</td>
+</tr>
+</table>
+
+<h2>🛠️ Tech Stack</h2>
 
 <div align="center">
 
@@ -35,37 +52,23 @@ I'm particularly interested in artificial intelligence and enjoy building softwa
 
 </div>
 
-## ⏱️ Coding Time
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Coding Time ⏱️</h3>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=medevs&layout=compact&theme=radical&hide_border=true" alt="Wakatime Stats">
+</td>
+<td width="50%">
+<h3 align="center">Top Languages 📊</h3>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=medevs&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+</td>
+</tr>
+</table>
 
 <div align="center">
-  
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=medevs.medevs)
 [![wakatime](https://wakatime.com/badge/user/6ce7c40b-ea03-4900-9e0f-df9522455eb6.svg)](https://wakatime.com/@6ce7c40b-ea03-4900-9e0f-df9522455eb6)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=medevs&layout=compact&theme=radical)](https://wakatime.com/@medevs)
-
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medevs&theme=radical" alt="GitHub Streak" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=medevs&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</div>
-
-## 🤝 Connect with Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Oublihi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-oublihi/)
-[![Twitter](https://img.shields.io/badge/Twitter-@ahmedoublihi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmedoublihi)
-[![GitHub](https://img.shields.io/badge/GitHub-medevs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medevs)
-
-</div>
-
----
-
-<div align="center">
-  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=medevs.medevs)
-
 </div>
