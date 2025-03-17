@@ -5,7 +5,6 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Oublihi-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-oublihi/)
   [![Twitter](https://img.shields.io/badge/Twitter-@ahmedoublihi-1DA1F2?style=flat&logo=twitter)](https://twitter.com/ahmedoublihi)
-  [![Profile Views](https://komarev.com/ghpvc/?username=medevs&color=blueviolet)](https://github.com/medevs)
   [![wakatime](https://wakatime.com/badge/user/6ce7c40b-ea03-4900-9e0f-df9522455eb6.svg)](https://wakatime.com/@6ce7c40b-ea03-4900-9e0f-df9522455eb6)
 </div>
 
