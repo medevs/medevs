@@ -46,14 +46,10 @@ Right now, I'm on a journey to blend my web dev expertise with AI engineering sk
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-LangChain-3C3C3B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-LlamaIndex-47A248?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-MLOps-0078D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Vector_DBs-4479A1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Pinecone-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Chroma-6B46C1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-NLP-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-GenAI-FF6C37?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-AI_Agents-00C7B7?style=for-the-badge" />
