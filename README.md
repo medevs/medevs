@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmed%&fontSize=70&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmed&fontSize=70&fontAlignY=35&animation=fadeIn" />
   
   ### Azul! | Moin! | Hi! 👋
   
@@ -10,17 +10,22 @@
 
 ## Hey there! 👋
 
-I'm Ahmed, a Full Stack Developer originally from Morocco but currently living in Germany. I build web apps during the day and dive into AI stuff at night. I love creating tools that actually make a difference, and I'm fascinated by how AI is reshaping what's possible in tech.
+I'm Ahmed, a **Full Stack Developer** from Morocco, currently living in Germany 🇩🇪. By day, I craft scalable web apps; by night, I dive into AI and agentic systems, bridging the gap between traditional development and cutting-edge AI.
 
-Right now, I'm on a journey to blend my web dev expertise with AI engineering skills. Working with agent frameworks and generative AI has become my latest obsession!
+🚀 **Web dev meets AI engineering** — I'm on a mission to merge these worlds, exploring AI agents, frameworks, and the future of generative AI!
 
-## What I'm up to
+---
 
-- 🚀 Building scalable web applications with modern tech
-- 🤖 Playing around with AI frameworks and creating my own agents
-- 🌱 Constantly learning and expanding my tech horizons
+## 🚀 What I'm up to
 
-## My Tech Stack
+- 🛠️ Building web apps with modern tech & cloud solutions  
+- 🤖 Experimenting with **AI agent frameworks** like **Pydantic AI**, **LangGraph**, and **LangChain**  
+- 🌱 Learning new ways to supercharge user experiences with **generative AI tools**  
+- 🧪 Tinkering with **LLM orchestration** and **AI toolkits**  
+
+---
+
+## 🧠 My Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -30,7 +35,6 @@ Right now, I'm on a journey to blend my web dev expertise with AI engineering sk
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
@@ -40,20 +44,27 @@ Right now, I'm on a journey to blend my web dev expertise with AI engineering sk
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-## What I'm learning
+---
+
+## 🤖 AI & Agents: My Playground
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-LangChain-3C3C3B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-LangGraph-2D3748?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Pydantic%20AI-FF8800?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MLOps-0078D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Vector_DBs-4479A1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-NLP-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-MLOps-0078D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-GenAI-FF6C37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-AI_Agents-00C7B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-AI_Tools-00C7B7?style=for-the-badge" />
 </div>
+
+---
+
+## 📊 Stats & Coding Time
 
 <div align="center">
   <a href="https://github.com/medevs">
@@ -63,12 +74,15 @@ Right now, I'm on a journey to blend my web dev expertise with AI engineering sk
 </div>
 
 <div align="center">
-  <h3>Coding Time</h3>
+  <h3>🕰️ Wakatime Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=medevs&layout=compact&theme=radical&hide_border=true" />
 </div>
 
+---
+
+## 🌐 Let's Connect!
+
 <div align="center">
-  <h3>Let's Connect!</h3>
   <a href="https://www.linkedin.com/in/ahmed-oublihi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/ahmedoublihi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://github.com/medevs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
