@@ -1,91 +1,114 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmed&fontSize=70&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,2,2,5,30&height=200&section=header&text=Ahmed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Developer&descAlignY=51&descAlign=62" />
+</div>
+
+<div align="center">
   
-  ### Azul! | Moin! | Hi! 👋
+### 🌟 Azul! | Moin! | Hi there! 👋
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Oublihi-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-oublihi/)
-  [![Twitter](https://img.shields.io/badge/Twitter-@ahmedoublihi-1DA1F2?style=flat&logo=twitter)](https://twitter.com/ahmedoublihi)
-  [![wakatime](https://wakatime.com/badge/user/6ce7c40b-ea03-4900-9e0f-df9522455eb6.svg)](https://wakatime.com/@6ce7c40b-ea03-4900-9e0f-df9522455eb6)
-</div>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Ahmed%20Oublihi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-oublihi/)
+[![Twitter](https://custom-icon-badges.demolab.com/badge/Twitter-@ahmedoublihi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmedoublihi)
+[![Wakatime](https://custom-icon-badges.demolab.com/badge/WakaTime-Coding%20Stats-00D4AA?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@6ce7c40b-ea03-4900-9e0f-df9522455eb6)
 
-## Hey there! 👋
-
-I'm Ahmed, a **Full Stack Developer** from Morocco, currently living in Germany 🇩🇪. By day, I craft scalable web apps; by night, I dive into AI and agentic systems, bridging the gap between traditional development and cutting-edge AI.
-
-🚀 **Web dev meets AI engineering** — I'm on a mission to merge these worlds, exploring AI agents, frameworks, and the future of generative AI!
-
----
-
-## 🚀 What I'm up to
-
-- 🛠️ Building web apps with modern tech & cloud solutions  
-- 🤖 Experimenting with **AI agent frameworks** like **Pydantic AI**, **LangGraph**, and **LangChain**  
-- 🌱 Learning new ways to supercharge user experiences with **generative AI tools**  
-- 🧪 Tinkering with **LLM orchestration** and **AI toolkits**  
-
----
-
-## 🧠 My Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ---
 
-## 🤖 AI & Agents: My Playground
+## 🚀 About Me
 
+```typescript
+const ahmed = {
+  location: Bremen "🇩🇪",
+  role: "Full Stack Developer & AI Developer",
+  passion: ["Web Development", "AI/ML", "Agentic Systems"],
+  currentFocus: "Bridging traditional web dev with cutting-edge AI",
+  motto: "Building the future, one line of code at a time ⚡"
+};
+```
+
+## 🛠️ Tech Arsenal
+
+### 💻 Frontend & Backend
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LangChain-3C3C3B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-LangGraph-2D3748?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Pydantic%20AI-FF8800?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vector_DBs-4479A1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-MLOps-0078D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-GenAI-FF6C37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-AI_Tools-00C7B7?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,astro,php,laravel" />
+</div>
+
+### 🎨 Styling & UI
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,css,html,sass" />
+</div>
+
+### 🗄️ Databases & Cloud
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,prisma,mysql,postgresql,firebase" />
+</div>
+
+### 🤖 AI & Machine Learning
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic_AI-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</div>
+
+### ⚙️ DevOps & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </div>
 
 ---
 
-## 📊 Stats & Coding Time
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/medevs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=medevs&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=medevs&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" />
-  </a>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=medevs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=medevs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </div>
 
 <div align="center">
-  <h3>🕰️ Wakatime Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=medevs&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medevs&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF7B72&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
 </div>
 
 ---
 
-## 🌐 Let's Connect!
+## 🌟 Current Focus Areas
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🤖 AI & Agents
+- **Pydantic AI** for type-safe AI agents
+- **LangGraph** for complex AI workflows  
+- **LangChain** for LLM applications
+- **Vector Databases** for semantic search
+- **GenAI Tools** integration
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 Web Development
+- **Next.js** full-stack applications
+- **TypeScript** for robust codebases
+- **Prisma** for database management
+- **Supabase** for backend services
+- **Tailwind CSS** for modern UI
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Activity Graph
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-oublihi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/ahmedoublihi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/medevs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medevs&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF7B72&area=true&hide_border=true" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
+</div>
