@@ -1,85 +1,82 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,2,2,5,30&height=150&section=header&text=Ahmed&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=&descAlignY=51&descAlign=62" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,12,20,12&height=120&section=header&text=Ahmed&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 </div>
 
 <div align="center">
-  <h2>Full Stack Developer | AI Developer</h2>
+  <h3>🚀 Full Stack Developer | AI Engineer</h3>
   
-  ### 🌟 Azul! | Moin! | Hi there! 👋
-  
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Ahmed%20Oublihi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-oublihi/)
-  [![Twitter](https://custom-icon-badges.demolab.com/badge/Twitter-@ahmedoublihi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmedoublihi)
-  [![Wakatime](https://custom-icon-badges.demolab.com/badge/WakaTime-Coding%20Stats-00D4AA?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@6ce7c40b-ea03-4900-9e0f-df9522455eb6)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-oublihi/)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ahmedoublihi)
+  [![Wakatime](https://img.shields.io/badge/-WakaTime-000000?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/@6ce7c40b-ea03-4900-9e0f-df9522455eb6)
 </div>
 
-## 🚀 About Me
+<br>
 
-```typescript
-const ahmed = {
-  location: "Bremen 🇩🇪",
-  role: "Full Stack Developer & AI Developer",
-  passion: ["Web Development", "AI/ML", "Agentic Systems"],
-  currentFocus: "Bridging traditional web dev with cutting-edge AI",
-  motto: "Building the future, one line of code at a time ⚡"
+<table width="100%">
+<tr>
+<td width="60%">
+
+### 👨‍💻 About
+```js
+const developer = {
+  name: "Ahmed",
+  location: "Bremen, DE 🇩🇪",
+  role: "Full Stack & AI Developer",
+  focus: ["Web Development", "AI/ML", "Automation"],
+  motto: "Building the future ⚡"
 };
 ```
 
-## 🛠️ Tech Stack
+### 🛠 Tech Arsenal
 
-<div align="center">
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-<h3>🌐 Frontend & Backend</h3>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs" />
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,astro,php" />
+<strong>Frontend</strong><br>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark&perline=4" width="120"/>
 </td>
 <td width="50%" align="center">
-<h3>🎨 Styling & UI</h3>
-<img src="https://skillicons.dev/icons?i=tailwind,css,html" />
-<br>
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<strong>Backend</strong><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python&theme=dark&perline=4" width="120"/>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-<h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,supabase,prisma,mysql" />
-<br>
-<img src="https://skillicons.dev/icons?i=postgresql,firebase" />
+<td align="center">
+<strong>Database</strong><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,prisma&theme=dark&perline=4" width="120"/>
 </td>
-<td width="50%" align="center">
-<h3>🤖 AI Stack</h3>
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
-<br>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Pydantic_AI-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<h3>⚙️ DevOps & Tools</h3>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" />
+<td align="center">
+<strong>Tools</strong><br>
+<img src="https://skillicons.dev/icons?i=docker,git,vscode,linux&theme=dark&perline=4" width="120"/>
 </td>
 </tr>
 </table>
+
+### 🤖 AI Stack
+<div align="center">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="25"/>
 </div>
 
-## 📊 GitHub Stats
+</td>
+<td width="40%">
+
+### 📊 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=medevs&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=medevs&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=ff7b72&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" width="100%"/>
+
+### 🎯 Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medevs&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="100%"/>
+
+### 🏆 Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=medevs&theme=darkhub&no-frame=true&row=1&column=3" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=medevs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=medevs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=medevs&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF7B72&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,12,20,12&height=80&section=footer&animation=fadeIn" />
 </div>
