@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Full Stack Developer | AI Engineer</h3>
+  <h3>🚀 Full Stack Developer | AI Developer</h3>
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-oublihi/)
   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ahmedoublihi)
