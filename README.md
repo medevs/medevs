@@ -28,12 +28,15 @@ const developer = {
 ```
 
 ### 🛠 Tech Arsenal
-
 <table width="100%">
 <tr>
 <td width="50%" align="center">
 <strong>Frontend</strong><br>
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark&perline=4" width="120"/>
+<br>
+<img src="https://skillicons.dev/icons?i=tailwind,html,css,sass&theme=dark&perline=4" width="120"/>
+<br>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="20"/>
 </td>
 <td width="50%" align="center">
 <strong>Backend</strong><br>
@@ -50,13 +53,19 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=docker,git,vscode,linux&theme=dark&perline=4" width="120"/>
 </td>
 </tr>
-</table>
-
-### 🤖 AI Stack
-<div align="center">
+<tr>
+<td colspan="2" align="center">
+<strong>🤖 AI Stack</strong><br>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="25"/>
+</td>
+</tr>
+</table>
+
+### 📈 Contribution Graph
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=medevs&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
 </div>
 
 </td>
