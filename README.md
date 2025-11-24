@@ -1,99 +1,63 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Ahmed%20Oublihi&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Ahmed%20Oublihi&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </div>
-
-<br/>
 
 <div align="center">
+  
+### 🚀 Software Engineer | AI/LLM Specialist | Full-Stack Developer
+**Building production-ready AI systems • Self-hosted LLMs • Modern web apps**
 
-## ⚡ Software Engineer • Local AI & LLM Specialist  
-Building self-hosted AI systems, LLM-powered apps, and modern full-stack infrastructure.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/ahmed-oublihi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/ahmedoublihi">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://wakatime.com/@6ce7c40b-ea03-4900-9e0f-df9522455eb6">
-  <img src="https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-oublihi/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://twitter.com/ahmedoublihi)
+[![WakaTime](https://img.shields.io/badge/WakaTime-Profile-000000?style=flat&logo=wakatime)](https://wakatime.com/@6ce7c40b-ea03-4900-9e0f-df9522455eb6)
 
 </div>
 
----
+## 💡 What I Do
 
-## 👨‍💻 About Me
-Focused on **local AI deployment**, **LLM engineering**, and **full-stack development**.
+Specialized in **local AI infrastructure** and **LLM engineering** — building intelligent systems that run efficiently on real hardware. Passionate about full-stack development, homelab optimization, and creating practical AI-powered applications.
 
-I love building systems that run efficiently on **real hardware** — from homelab servers to modern AI apps.
-
-```js
-const Ahmed = {
-  location: "Bremen 🇩🇪",
-  role: "Local AI & LLM Engineer",
-  interests: ["Local LLMs", "AI Infra", "Homelab", "Full Stack"],
-  motto: "Build real. Build local. Build smart."
+```javascript
+const skills = {
+  AI: ["LLM Deployment", "RAG Pipelines", "Ollama", "LangChain", "FastAPI"],
+  Backend: ["Node.js", "Express", "Python", "PostgreSQL", "MongoDB", "Redis"],
+  Frontend: ["Next.js", "React", "TypeScript", "Tailwind", "shadcn/ui"],
+  DevOps: ["Docker", "Linux", "Self-Hosted Infrastructure"]
 };
-````
+```
 
-# 🧠 Core Tech Stack
+## 🔥 Featured Projects
 
-### 🔥 AI & LLM
+**🤖 Local AI Homelab** — Production-ready self-hosted LLM system running Llama, Mistral, and Phi-3 models
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="38"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=robotframework&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-111111?style=flat&logo=layers&logoColor=white" height="22"/>
-</p>
+**📄 TalkTheDoc** — Real-time document chat using RAG (Retrieval-Augmented Generation) with embeddings
 
-### 🟣 Backend & Infra
+**📋 Docspresso** — AI-powered documentation generator for PRDs, tech specs, and architecture diagrams
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,linux,postgres,mongodb,redis&theme=dark" height="40"/>
-</p>
-
-### 🔵 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" height="40"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" height="20"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### **Local AI Homelab – Self-Hosted LLM System**
-
-Run and serve LLMs (Llama, Mistral, Phi-3) fully on local hardware.
-
-### **TalkTheDoc – Real-Time Document Chat (RAG)**
-
-Chat with documents using embeddings + retrieval.
-
-### **Docspresso – AI-Generated Documentation**
-
-Generate PRDs, tech specs, and architecture drafts using agents.
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medevs&show_icons=true&theme=dark&hide_border=true&count_private=true" height="140"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medevs&theme=dark&hide_border=true" height="140"/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=medevs&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medevs&theme=github-dark-blue&hide_border=true" height="165"/>
 </div>
 
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <i>📍 Based in Bremen, Germany 🇩🇪 • Open to collaboration and opportunities</i>
 </div>
