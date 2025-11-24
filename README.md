@@ -17,15 +17,6 @@
 
 Specialized in **local AI infrastructure** and **LLM engineering** — building intelligent systems that run efficiently on real hardware. Passionate about full-stack development, homelab optimization, and creating practical AI-powered applications.
 
-```javascript
-const skills = {
-  AI: ["LLM Deployment", "RAG Pipelines", "Ollama", "LangChain", "FastAPI"],
-  Backend: ["Node.js", "Express", "Python", "PostgreSQL", "MongoDB", "Redis"],
-  Frontend: ["Next.js", "React", "TypeScript", "Tailwind", "shadcn/ui"],
-  DevOps: ["Docker", "Linux", "Self-Hosted Infrastructure"]
-};
-```
-
 ## 🔥 Featured Projects
 
 **🤖 Local AI Homelab** — Production-ready self-hosted LLM system running Llama, Mistral, and Phi-3 models
@@ -34,19 +25,26 @@ const skills = {
 
 **📋 Docspresso** — AI-powered documentation generator for PRDs, tech specs, and architecture diagrams
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
+### 🤖 AI & LLM
 <div align="center">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="40"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=AI&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-111111?style=for-the-badge&logo=layers&logoColor=white" height="28"/>
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### ⚙️ Backend & Infrastructure
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker,linux,postgres,mongodb,redis&theme=dark" height="40"/>
+</div>
 
+### 🎨 Frontend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" height="40"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="28"/>
 </div>
 
 ## 📈 GitHub Activity
