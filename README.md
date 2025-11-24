@@ -1,91 +1,99 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,12,20,12&height=120&section=header&text=Ahmed&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Ahmed%20Oublihi&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </div>
+
+<br/>
 
 <div align="center">
-  <h3>🚀 Full Stack Developer | AI Developer</h3>
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-oublihi/)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ahmedoublihi)
-  [![Wakatime](https://img.shields.io/badge/-WakaTime-000000?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/@6ce7c40b-ea03-4900-9e0f-df9522455eb6)
+
+## ⚡ Software Engineer • Local AI & LLM Specialist  
+Building self-hosted AI systems, LLM-powered apps, and modern full-stack infrastructure.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ahmed-oublihi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/ahmedoublihi">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://wakatime.com/@6ce7c40b-ea03-4900-9e0f-df9522455eb6">
+  <img src="https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white"/>
+</a>
+
 </div>
 
-<br>
+---
 
-<table width="100%">
-<tr>
-<td width="60%">
+## 👨‍💻 About Me
+Focused on **local AI deployment**, **LLM engineering**, and **full-stack development**.
 
-### 👨‍💻 About
+I love building systems that run efficiently on **real hardware** — from homelab servers to modern AI apps.
+
 ```js
-const developer = {
-  name: "Ahmed",
-  location: "Bremen, DE 🇩🇪",
-  role: "Full Stack & AI Developer",
-  focus: ["Web Development", "AI/ML", "Automation"],
-  motto: "Building the future ⚡"
+const Ahmed = {
+  location: "Bremen 🇩🇪",
+  role: "Local AI & LLM Engineer",
+  interests: ["Local LLMs", "AI Infra", "Homelab", "Full Stack"],
+  motto: "Build real. Build local. Build smart."
 };
-```
+````
 
-### 🛠 Tech Arsenal
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<strong>Frontend</strong><br>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark&perline=4" width="120"/>
-<br>
-<img src="https://skillicons.dev/icons?i=tailwind,html,css,sass&theme=dark&perline=4" width="120"/>
-<br>
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="20"/>
-</td>
-<td width="50%" align="center">
-<strong>Backend</strong><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python&theme=dark&perline=4" width="120"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<strong>Database</strong><br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,prisma&theme=dark&perline=4" width="120"/>
-</td>
-<td align="center">
-<strong>Tools</strong><br>
-<img src="https://skillicons.dev/icons?i=docker,git,vscode,linux&theme=dark&perline=4" width="120"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<strong>🤖 AI Stack</strong><br>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="25"/>
-</td>
-</tr>
-</table>
+# 🧠 Core Tech Stack
 
-### 📈 Contribution Graph
+### 🔥 AI & LLM
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="38"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=robotframework&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-111111?style=flat&logo=layers&logoColor=white" height="22"/>
+</p>
+
+### 🟣 Backend & Infra
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,linux,postgres,mongodb,redis&theme=dark" height="40"/>
+</p>
+
+### 🔵 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" height="20"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### **Local AI Homelab – Self-Hosted LLM System**
+
+Run and serve LLMs (Llama, Mistral, Phi-3) fully on local hardware.
+
+### **TalkTheDoc – Real-Time Document Chat (RAG)**
+
+Chat with documents using embeddings + retrieval.
+
+### **Docspresso – AI-Generated Documentation**
+
+Generate PRDs, tech specs, and architecture drafts using agents.
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=medevs&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=medevs&show_icons=true&theme=dark&hide_border=true&count_private=true" height="140"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medevs&theme=dark&hide_border=true" height="140"/>
 </div>
 
-</td>
-<td width="40%">
-
-### 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=medevs&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=medevs&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=ff7b72&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" width="100%"/>
-
-### 🎯 Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medevs&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="100%"/>
-
-### 🏆 Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=medevs&theme=darkhub&no-frame=true&row=1&column=3" width="100%"/>
-
-</td>
-</tr>
-</table>
+---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,12,20,12&height=80&section=footer&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </div>
