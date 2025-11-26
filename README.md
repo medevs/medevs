@@ -4,7 +4,7 @@
 
 <div align="center">
   
-### 🚀 Software Engineer | AI/LLM Specialist | Full-Stack Developer
+### 🚀 Software Engineer | Local AI/LLM Specialist
 **Building production-ready AI systems • Self-hosted LLMs • Modern web apps**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-oublihi/)
