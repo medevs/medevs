@@ -4,58 +4,49 @@
 
 <div align="center">
   
-### 🚀 Software Engineer | Local AI/LLM Specialist
-**Building production-ready AI systems • Self-hosted LLMs • Modern web apps**
+### 💻 Software Engineer | AI/LLM Infrastructure Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-oublihi/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://twitter.com/ahmedoublihi)
-[![WakaTime](https://img.shields.io/badge/WakaTime-Profile-000000?style=flat&logo=wakatime)](https://wakatime.com/@6ce7c40b-ea03-4900-9e0f-df9522455eb6)
+**Production AI Systems • Self-Hosted LLM Architecture • Full-Stack Development**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-oublihi/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmedoublihi)
+[![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@6ce7c40b-ea03-4900-9e0f-df9522455eb6)
 
 </div>
 
-## 💡 What I Do
+## 🎯 About Me
 
-Specialized in **local AI infrastructure** and **LLM engineering** — building intelligent systems that run efficiently on real hardware. Passionate about full-stack development, homelab optimization, and creating practical AI-powered applications.
+I build **production-grade AI systems** with a focus on **privacy-first, self-hosted LLM infrastructure**. Specialized in reducing operational costs while maintaining data sovereignty through on-premise AI deployments. My work combines modern full-stack development with practical AI engineering to create scalable, cost-effective solutions.
 
-## 🔥 Featured Projects
+**Core Focus Areas:**
+- 🔒 **Privacy-Preserving AI** — Self-hosted LLM systems that keep sensitive data in-house
+- 💰 **Cost Optimization** — Replacing expensive API calls with efficient local inference
+- ⚡ **Production Systems** — Building reliable AI infrastructure that scales
+- 🛠️ **Full-Stack Development** — Modern web applications with AI capabilities
 
-**🤖 Local AI Homelab** — Production-ready self-hosted LLM system running Llama, Mistral, and Phi-3 models
-
-**📄 TalkTheDoc** — Real-time document chat using RAG (Retrieval-Augmented Generation) with embeddings
-
-**📋 Docspresso** — AI-powered documentation generator for PRDs, tech specs, and architecture diagrams
-
-## 🛠️ Technology Stack
-
-### 🤖 AI & LLM
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="40"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=AI&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/RAG%20Pipelines-111111?style=for-the-badge&logo=layers&logoColor=white" height="28"/>
-</div>
-
-### ⚙️ Backend & Infrastructure
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,docker,linux,postgres,mongodb,redis&theme=dark" height="40"/>
-</div>
-
-### 🎨 Frontend
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" height="40"/>
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="28"/>
-</div>
-
-## 📈 GitHub Activity
+## 🛠️ Technical Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medevs&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medevs&theme=github-dark-blue&hide_border=true" height="165"/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,nextjs,react,ts,tailwind,docker,linux,postgres,mongodb,redis,nginx&theme=dark" height="40" alt="Tech Stack"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=AI&logoColor=white" height="28" alt="Ollama"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="28" alt="LangChain"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white" height="28" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge&logo=layers&logoColor=white" height="28" alt="RAG"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="28" alt="shadcn/ui"/>
 </div>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=medevs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=medevs&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" height="180" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=medevs&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" height="180" />
+</p>
 
 ---
 
 <div align="center">
-  <i>📍 Based in Bremen, Germany 🇩🇪 • Open to collaboration and opportunities</i>
+  <strong>📍 Based in Bremen, Germany 🇩🇪</strong>
+  <br/>
+  <i>Open to opportunities • Available for consulting • Let's build something amazing</i>
 </div>
