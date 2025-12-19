@@ -27,8 +27,79 @@ Curious by nature, I like exploring modern tech—including basic AI features—
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,fastapi,mongodb,postgres,redis,python,docker,linux,nginx,tailwind&theme=dark" height="40" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
+      <br/>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
+      <br/>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+      <br/>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
+      <br/>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+      <br/>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+      <br/>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" />
+      <br/>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" />
+      <br/>FastAPI
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" />
+      <br/>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" />
+      <br/>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" />
+      <br/>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" />
+      <br/>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" />
+      <br/>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" />
+      <br/>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
+      <br/>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
+      <br/>Git
+    </td>
+  </tr>
+</table>
 </div>
+
 
 ---
 
