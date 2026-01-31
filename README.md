@@ -22,6 +22,10 @@ I enjoy working across the stack, experimenting with new tools, and learning thr
 
 Curious by nature, I like exploring modern tech—including basic AI features—when they improve the user experience or solve real product needs.
 
+https://talkthedoc.com/
+<br/>
+https://mentorclone.ai/
+
 ---
 
 ## 🛠️ Tech Stack
