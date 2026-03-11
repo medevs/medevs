@@ -1,123 +1,51 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Ahmed&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</div>
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hey, I'm Ahmed !
 
-<div align="center">
-
-### 💻 Software Engineer | MERN • Next.js • FastAPI
-
-Building modern web applications, exploring new technologies, and always learning by building.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-oublihi/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ahmedoublihi)
-
-</div>
+![profile count](https://komarev.com/ghpvc/?username=medevs&color=blue)&nbsp;
+[![GitHub medevs](https://img.shields.io/github/followers/medevs?label=follow&style=social)](https://github.com/medevs)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
 ---
 
-## 🎯 About Me
+### 👨🏻‍💻 &nbsp;About Me
 
-Full-Stack Software Engineer focused on building reliable, scalable web applications using the MERN stack, Next.js, and FastAPI.  
-I enjoy working across the stack, experimenting with new tools, and learning through hands-on projects.
-
-Curious by nature, I like exploring modern tech—including basic AI features—when they improve the user experience or solve real product needs.
-
-https://talkthedoc.com/
-<br/>
-https://mentorclone.ai/
+💡 &nbsp;Full-Stack Software Engineer building modern web apps with the MERN stack, Next.js, and FastAPI.\
+🚀 &nbsp;Currently working on [talkthedoc.com](https://talkthedoc.com) and [mentorclone.ai](https://mentorclone.ai).\
+🌱 &nbsp;Always exploring new tools — lately diving deeper into AI integrations and scalable backend patterns.\
+📍 &nbsp;Based in Bremen, Germany.\
+💬 &nbsp;Feel free to reach out for collaboration, consulting, or just a good tech chat!\
+📄 &nbsp;Check my [LinkedIn](https://www.linkedin.com/in/ahmed-oublihi/) for more about my experience.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠 &nbsp;Tech Stack
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
-      <br/>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
-      <br/>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
-      <br/>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
-      <br/>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
-      <br/>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
-      <br/>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" />
-      <br/>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" />
-      <br/>FastAPI
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" />
-      <br/>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" />
-      <br/>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" />
-      <br/>Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" />
-      <br/>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" />
-      <br/>Nginx
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" />
-      <br/>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
-      <br/>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
-      <br/>Git
-    </td>
-  </tr>
-</table>
-</div>
-
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)\
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind-css)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
 
 ---
 
-## 📊 GitHub Stats
+### 📫 &nbsp;How to reach me
+
+<a href="https://www.linkedin.com/in/ahmed-oublihi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://twitter.com/ahmedoublihi"><img alt="X" src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/></a>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=medevs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" height="180" />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=medevs&layout=compact&theme=react&border_radius=10" height="180" />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=medevs&theme=react&border_radius=10" height="180" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=medevs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=8&hide_title=true" width="49%"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=medevs&theme=react&border_radius=8" width="49%"/>
 </p>
-
----
-
-<div align="center">
-  <strong>📍 Based in Bremen, Germany 🇩🇪</strong><br/>
-  <i>Open to opportunities • Always building • Always learning</i>
-</div>
