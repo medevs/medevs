@@ -1,7 +1,5 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hey, I'm Ahmed !
+### Hey, I'm Ahmed !
 
-![profile count](https://komarev.com/ghpvc/?username=medevs&color=blue)&nbsp;
-[![GitHub medevs](https://img.shields.io/github/followers/medevs?label=follow&style=social)](https://github.com/medevs)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 ---
@@ -10,7 +8,7 @@
 
 💡 &nbsp;Full-Stack Software Engineer building modern web apps with the MERN stack, Next.js, and FastAPI.\
 🚀 &nbsp;Currently working on [talkthedoc.com](https://talkthedoc.com) and [mentorclone.ai](https://mentorclone.ai).\
-🌱 &nbsp;Always exploring new tools — lately diving deeper into AI integrations and scalable backend patterns.\
+🌱 &nbsp;Always exploring new tools, lately diving deeper into AI integrations and scalable backend patterns.\
 📍 &nbsp;Based in Bremen, Germany.\
 💬 &nbsp;Feel free to reach out for collaboration, consulting, or just a good tech chat!\
 📄 &nbsp;Check my [LinkedIn](https://www.linkedin.com/in/ahmed-oublihi/) for more about my experience.
